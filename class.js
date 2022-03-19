@@ -1,3 +1,7 @@
+console.log ("Hello world")
+console.log ("My world")
+console.log ("Bye world")
+
 // console.log ("hello world")
 // console.log ("hello world")
 // console.log ("hello world")
@@ -28,9 +32,6 @@
 // console.log ("hello world " + 100) //hello world 100
 
 //method => () // property => () is not available
-var stringOne = "hello world";
-console.log (stringOne.toUpperCase()) //output: "HELLO WORLD"
-
-
-
+// var stringOne = "hello world";
+// console.log (stringOne.toUpperCase()) //output: "HELLO WORLD"
 
